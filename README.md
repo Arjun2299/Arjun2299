@@ -6,6 +6,7 @@ Cyber Security Project
 
 Keylogger                                                                                                                                                                    Conducted a thorough examination of keyloggers, delving into their functionalities, deployment methods, and evasion techniques to enhance threat intelligence     
 •	Classified keyloggers systematically, establishing a structured taxonomy based on diverse characteristics, providing crucial insights for proactive defense strategies      
+ 
  Malware Analysis Framework                                                                                                                                                  
 -	Led the development of a comprehensive framework for in-depth analysis of various malware types, showcasing a strategic approach to cybersecurity threat mitigation      
 -	Integrated cutting-edge tools and technologies into the framework to automate the malware analysis process, optimizing efficiency and enabling rapid response to emerging threats     
